@@ -1,0 +1,130 @@
+---
+CSS:
+  beautifiers:
+  - Prettier
+  - Pretty Diff
+  - JS-Beautify
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+  preserve_newlines: true
+EJS:
+  beautifiers:
+  - JS-Beautify
+  - Pretty Diff
+  unformatted:
+    - textarea
+  indent_size: '2'
+  indent_style: space
+  indent_inner_html: false
+  max_preserve_newlines: '1'
+  preserve_newlines: true
+HTML:
+  beautifiers:
+  - JS-Beautify
+  - Pretty Diff
+  unformatted:
+    - textarea
+  indent_size: '2'
+  indent_style: space
+  indent_inner_html: false
+  max_preserve_newlines: '1'
+  preserve_newlines: true
+JavaScript:
+  beautifiers:
+  - Prettier
+  break_chained_methods: false
+  end_with_semicolon: false
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+  object_curly_spacing: true
+  quotes: single
+TypeScript:
+  beautifiers:
+  - Prettier
+  break_chained_methods: false
+  end_with_semicolon: false
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+  object_curly_spacing: true
+  quotes: single
+JSON:
+  beautifiers:
+  - JS-Beautify
+  - Prettier
+  - Pretty Diff
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+JSX:
+  beautifiers:
+  - Prettier
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+  object_curly_spacing: true
+TSX:
+  beautifiers:
+  - Prettier
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+  object_curly_spacing: true
+Less:
+  beautifiers:
+  - Prettier
+  - Pretty Diff
+  indent_style: space
+  max_preserve_newlines: '1'
+Markdown:
+  beautifiers:
+  - Prettier
+  indent_style: space
+PHP:
+  beautifiers:
+  - PHP-CS-Fixer
+Sass:
+  beautifiers:
+  - Pretty Diff
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+SCSS:
+  beautifiers:
+  - Prettier
+  - Pretty Diff
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+SVG:
+  beautifiers:
+  - Pretty Diff
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+Twig:
+  beautifiers:
+  - Pretty Diff
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
+TypeScript:
+  beautifiers:
+  - Prettier
+  - Pretty Diff
+  indent_style: space
+  max_preserve_newlines: '1'
+Vue:
+  beautifiers:
+  - Prettier
+  indent_size: '2'
+  indent_style: space
+XML:
+  beautifiers:
+  - JS-Beautify
+  - Pretty Diff
+  indent_size: '2'
+  indent_style: space
+  max_preserve_newlines: '1'
